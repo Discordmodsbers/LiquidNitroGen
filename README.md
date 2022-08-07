@@ -2,7 +2,7 @@
 This is a discord nitro generator 
 # Added
 Added py version
-
+Added exe version
 # ToDo
 1: Add proxies
 2: Add arguments
