@@ -1,7 +1,7 @@
 # LiquidNitroGen
 This is a discord nitro generator 
 # Added
-Added py version
+Added py version\n
 Added exe version
 # ToDo
 1: Add proxies
