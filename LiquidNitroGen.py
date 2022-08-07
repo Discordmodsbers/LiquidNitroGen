@@ -1,3 +1,5 @@
+#credit to: Not-Sphinx#3487
+
 import requests
 import random
 import string
